@@ -13,7 +13,7 @@ Atualmente desenvolvo projetos em Python, chatbots e dashboards interativos.
 
 - 🎯 Objetivo: Transformar ideias em código que gera impacto real  
 - 📚 Aprendendo: Python, JS, APIs, Plotly  
-- ☕ Sobre mim: Cafeína alimenta meus commits  
+- ☕ Sobre mim: Café + Código = Perfeição  
 
 ---
 
