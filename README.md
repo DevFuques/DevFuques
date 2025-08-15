@@ -2,7 +2,7 @@
   <img width="1584" height="396" alt="banner linkedin_2" src="https://github.com/user-attachments/assets/caf5d8e7-4d45-4ccc-80c4-cd29cf387dc4" alt="Banner" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Fernando Fuques</h1>
+<h1 align="center">👋 Olá,meu nome é Fernando Fuques</h1>
 <h3 align="center">💻 Desenvolvedor | Front-end | Pythonista em contrução</h3>
 
 ---
