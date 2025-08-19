@@ -34,6 +34,11 @@ Atualmente desenvolvo projetos em Python, chatbots e dashboards interativos.
 
 ---
 
+## 🖥️ Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFuques&layout=donut&theme=tokyonight)
+
+---
+
 ### 📫 Contato
 <p align="left">
   <a href="https://www.linkedin.com/in/fernando-fuques-8504b0379/" target="_blank">
