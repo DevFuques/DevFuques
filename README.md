@@ -25,12 +25,17 @@ Atualmente desenvolvo projetos em Python, chatbots e dashboards interativos.
 ---
 
 ### 📌 Projetos em destaque
-<a href="https://github.com/DevFuques/Dashboard-Pop-Mundial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Dashboard-Pop-Mundial&theme=tokyonight" />
-</a>
-<a href="https://github.com/DevFuques/Desmo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Desmo&theme=tokyonight" />
-</a>
+<p align="center">
+  <a href="https://github.com/DevFuques/Dashboard-Pop-Mundial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Dashboard-Pop-Mundial&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DevFuques/Desmo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Desmo&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DevFuques/Impulso">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Impulso&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
