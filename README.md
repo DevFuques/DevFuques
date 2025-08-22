@@ -12,7 +12,7 @@ Sou estudante de **Desenvolvimento de sistemas** e desenvolvedor apaixonado por 
 Atualmente desenvolvo projetos em Python, chatbots e dashboards interativos.  
 
 - 🎯 Objetivo: Transformar ideias em código que gera impacto real  
-- 📚 Aprendendo: Python, JS, Banco de Dados, Plotly  
+- 📚 Aprendendo: Python, JS e MySQL  
 - ☕ Sobre mim: Café + Código = Perfeição  
 
 ---
