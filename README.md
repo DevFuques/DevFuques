@@ -32,9 +32,7 @@ Atualmente desenvolvo projetos em Python, chatbots e dashboards interativos.
   <a href="https://github.com/DevFuques/Desmo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Desmo&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DevFuques/Impulso">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Impulso&theme=tokyonight" />
-  </a>
+
 </p>
 
 ---
