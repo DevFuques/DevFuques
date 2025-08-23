@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Olá, meu nome é Fernando Fuques</h1>
-<h3 align="center">💻 Desenvolvedor | Front-end | Pythonista em contrução</h3>
+<h3 align="center">💻 Desenvolvedor | Front-end | JS | Python</h3>
 
 ---
 
