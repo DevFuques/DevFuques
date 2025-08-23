@@ -27,14 +27,17 @@ Atualmente desenvolvo projetos em Python, chatbots e dashboards interativos.
 
 | Projeto | Descrição |
 |---------|-----------|
-| [![Dashboard-Pop-Mundial](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Dashboard-Pop-Mundial&theme=tokyonight)](https://github.com/DevFuques/Dashboard-Pop-Mundial) | 🌍 Dashboard interativo mostrando dados sobre a **população mundial(max. 2023)**. |
-| [![Desmo](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Desmo&theme=tokyonight)](https://github.com/DevFuques/Desmo) | 🤖 Um Chatbot diferente dos que você conhece, converse e descubra tudo que ele tem a oferecer |
-| [![Impulso](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Impulso&theme=tokyonight)](https://github.com/DevFuques/Impulso) | 📊 Sistema de **gestão com Python + MySQL**, praticando CRUD e autenticação. |
+| [![Dashboard-Pop-Mundial](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Dashboard-Pop-Mundial&theme=radical)](https://github.com/DevFuques/Dashboard-Pop-Mundial) | 🌍 Dashboard interativo mostrando dados sobre a **população mundial(max. 2023)**. |
+| [![Desmo](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Desmo&theme=radical)](https://github.com/DevFuques/Desmo) | 🤖 Um Chatbot diferente dos que você conhece, converse e descubra tudo que ele tem a oferecer |
+| [![Impulso](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Impulso&theme=radical)](https://github.com/DevFuques/Impulso) | 📊 Sistema de **gestão com Python + MySQL**, praticando CRUD e autenticação. |
 
 ---
 
 ## 🖥️ Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFuques&layout=donut&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFuques&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
