@@ -21,7 +21,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e desenvolvedor apaixonado por 
 Atualmente desenvolvo projetos em Python, chatbots e dashboards interativos.  
 
 - 🎯 **Objetivo**: Transformar ideias em código que gera impacto real  
-- 📚 **Aprendendo**: Python, JS e MySQL  
+- 📚 **Aprendendo**: Python, JS, MySQL e Odoo
 - ☕ **Sobre mim**: Café + Código = Perfeição  
 
 ---
@@ -70,7 +70,7 @@ I am a **Systems Development student** and a developer passionate about creating
 Currently, I work on projects in Python, chatbots, and interactive dashboards.  
 
 - 🎯 **Goal**: Turn ideas into code that creates real impact  
-- 📚 **Learning**: Python, JS, and MySQL  
+- 📚 **Learning**: Python, JS, MySQL and Odoo
 - ☕ **About me**: Coffee + Code = Perfection  
 
 ---
