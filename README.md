@@ -28,7 +28,7 @@ Atualmente desenvolvo projetos em Python, chatbots e dashboards interativos.
 
 ### 🛠️ Tecnologias & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,github,linux,vscode,figma" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Currently, I work on projects in Python, chatbots, and interactive dashboards.
 
 ### 🛠️ Tech & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,github,linux,vscode,figma" />
 </p>
 
 ---
