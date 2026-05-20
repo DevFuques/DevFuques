@@ -47,7 +47,7 @@ Atualmente desenvolvo projetos em Python, chatbots e dashboards interativos.
 ## 🖥️ Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFuques&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevFuques&layout=compact&theme=radical&v=1" alt="Linguagens mais usadas" />
 </p>
 
 ---
