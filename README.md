@@ -94,7 +94,7 @@ Currently, I work on projects in Python, chatbots, and interactive dashboards.
 
 ## 🖥️ Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFuques&layout=compact&theme=radical" alt="Most used languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevFuques&layout=compact&theme=radical&v=1" alt="Linguagens mais usadas" />
 </p>
 
 ---
