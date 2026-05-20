@@ -37,10 +37,11 @@ Atualmente desenvolvo projetos em Python, chatbots e dashboards interativos.
 
 | Projeto | Descrição |
 |---------|-----------|
-| [![Dashboard-Pop-Mundial](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Dashboard-Pop-Mundial&theme=radical)](https://github.com/DevFuques/Dashboard-Pop-Mundial) | 🌍 Dashboard interativo mostrando dados sobre a **população mundial (2023)**. |
 | [![Desmo](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Desmo&theme=radical)](https://github.com/DevFuques/Desmo) | 🤖 Chatbot diferente dos que você conhece, com interações únicas. |
 | [![Impulso](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Impulso&theme=radical)](https://github.com/DevFuques/Impulso) | 📊 Sistema de **gestão com Python + MySQL**, praticando CRUD e autenticação. |
-| [![Projetos em C](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Impulso&theme=radical)](https://github.com/DevFuques/projetosEmC) | ©️ Projetos em C que fiz durantes meus estudos. |
+| [![Projetos em C](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=projetosEmC&theme=radical)](https://github.com/DevFuques/projetosEmC) | ©️ Projetos em C que fiz durantes meus estudos. |
+| [![Meu QR Code](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=MeuQrCode&theme=radical)](https://github.com/DevFuques/MeuQrCode) | 🔳 Um gerador de QR Code em Python |
+| [![Dashboard-Pop-Mundial](https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Dashboard-Pop-Mundial&theme=radical)](https://github.com/DevFuques/Dashboard-Pop-Mundial) | 🌍 Dashboard interativo mostrando dados sobre a **população mundial (2023)**. |
 
 ---
 
