@@ -60,7 +60,7 @@ Passive Buffs:
 🕹️ ACTIVE QUESTS
 | Quest                    | Description                                 | Status       |
 | ------------------------ | ------------------------------------------- | ------------ |
-| 🤖 Desmo AI              | Chatbot with unique interactions            | 🟢 Active    |
+| 🤖 Desmo Chatbot         | Chatbot with unique interactions            | 🟢 Completed |
 | 📊 Impulso               | Management system with Python + MySQL       | 🟢 Completed |
 | 🌍 Dashboard Pop Mundial | Interactive world population dashboard      | 🟢 Completed |
 | 🔳 MeuQrCode             | QR Code generator in Python                 | 🟢 Completed |
@@ -69,7 +69,6 @@ Passive Buffs:
 ---
 
 ⚡ CURRENT OBJECTIVES
-+ Improve Desmo AI
 + Build modern Python systems
 + Learn advanced backend concepts
 + Create futuristic interfaces
