@@ -68,29 +68,6 @@ Passive Buffs:
 
 ---
 
-🚀 FEATURED PROJECTS
-<p align="center">
-  <a href="https://github.com/DevFuques/Desmo">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Desmo&theme=radical&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/DevFuques/Impulso">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Impulso&theme=radical&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DevFuques/Dashboard-Pop-Mundial">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=Dashboard-Pop-Mundial&theme=radical&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/DevFuques/MeuQrCode">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DevFuques&repo=MeuQrCode&theme=radical&hide_border=true"/>
-  </a>
-</p>
-
----
-
 ⚡ CURRENT OBJECTIVES
 + Improve Desmo AI
 + Build modern Python systems
