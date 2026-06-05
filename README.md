@@ -60,11 +60,11 @@ Passive Buffs:
 🕹️ ACTIVE QUESTS
 | Quest                    | Description                                 | Status       |
 | ------------------------ | ------------------------------------------- | ------------ |
-| 🤖 Desmo AI              | Futuristic chatbot with unique interactions | 🟢 Active    |
-| 📊 Impulso               | Management system with Python + MySQL       | 🟢 Active    |
+| 🤖 Desmo AI              | Chatbot with unique interactions            | 🟢 Active    |
+| 📊 Impulso               | Management system with Python + MySQL       | 🟢 Completed |
 | 🌍 Dashboard Pop Mundial | Interactive world population dashboard      | 🟢 Completed |
 | 🔳 MeuQrCode             | QR Code generator in Python                 | 🟢 Completed |
-| ©️ Projetos em C         | Studies and logic exercises in C            | 🟢 Ongoing   |
+| ©️ Projetos em C         | Studies and logic exercises in C            | 🟢 Completed |
 
 ---
 
